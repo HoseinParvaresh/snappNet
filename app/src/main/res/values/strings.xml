@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محاسبه درآمد سفر اسنپ</string>
+    <string name="toman">تومان</string>
+    <string name="rial">ریال</string>
+
+    <string name="overlay_title">درآمد خالص</string>
+    <string name="overlay_gross">کرایه نمایش‌داده‌شده: %1$s %2$s</string>
+    <string name="overlay_deductions">کسورات: %1$s٪</string>
+
+    <string name="accessibility_service_description">تشخیص مبلغ سفر در اسنپ‌باکس و محاسبهٔ درآمد خالص. این سرویس فقط متن روی صفحه را می‌خواند و هیچ سفری را به‌جای شما قبول یا رد نمی‌کند.</string>
+</resources>
